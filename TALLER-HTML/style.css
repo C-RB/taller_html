@@ -1,0 +1,52 @@
+h3 {
+    color: rgb(0, 0, 0);
+    
+}
+
+#fondo {
+    background: rgb(148, 98, 7);
+}
+
+
+.titulo {
+    text-align: center;
+    font-size: 30px;
+    border-style:solid;
+    border-color: rgb(2, 4, 10);
+    border-radius: 5px;
+    border-width: 10px;
+    text-shadow: 3px 5px 5px;
+
+}
+.subtitulo {
+    text-decoration: underline;
+
+}
+
+h3{ 
+    font-size: 35px;
+}
+
+.descripcion {
+    text-decoration: underline rgb(185, 53, 0);
+
+}
+
+.imagenes {
+   border-style: solid;
+   border-color: rgb(94, 3, 3) ;
+  
+
+    width: 350px;
+}
+p {
+    font-size: 26px;
+}
+
+li{ 
+    font-size: 32px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
